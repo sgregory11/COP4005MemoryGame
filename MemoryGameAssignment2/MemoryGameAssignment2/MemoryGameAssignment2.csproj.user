@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://ocelot.aul.fiu.edu:22/~sgreg026/includes/memoryGame.php/|ftp://ocelot.aul.fiu.edu:22/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://ocelot.aul.fiu.edu/~sgreg026/includes/memoryGame.php/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
