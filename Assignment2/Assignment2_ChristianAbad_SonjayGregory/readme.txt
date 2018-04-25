@@ -63,6 +63,16 @@ Play Again gives the user the option to play the game again if they choose yes, 
 Built With:
 Visual Studio 2013: Windows Form Application using C#
 
+Resources:
+https://msdn.microsoft.com
+https://youtube.com
+
+Youtube Videos:
+Walkthrough - https://www.youtube.com/watch?v=G4UEynVdBrg
+Part 1 Code Review - https://www.youtube.com/watch?v=RpdUcT7f1Gw
+Part 2 Code Review - https://www.youtube.com/watch?v=01_QV0CTP8E
+Part 3 Code Review - https://www.youtube.com/watch?v=YalFtpcOwb8
+
 Authors:
 S. Gregory
 C. Abad
